@@ -18,7 +18,7 @@
 ---
 
 
-## 📡 контакт
+## 📡 github
 
 <p align="center">
   <a href="https://github.com/ygaraxax">GitHub</a>
