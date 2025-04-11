@@ -1,16 +1,23 @@
 # ygaraxax
  
-c++ / internal / undetected
+
+<h3 align="center"><code style="color:#8e44ad;">c++ / internal / </code></h3>
 
 ---
 
 ## 📊 stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ygaraxax&show_icons=true&hide=issues&hide_title=true&theme=dark&border_radius=0)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ygaraxax&show_icons=true&hide=issues&hide_title=true&theme=tokyonight&border_radius=6" width="500">
+</p>
 
 ---
 
 ## 🔤 languages
 
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-080020?style=for-the-badge&logo=c%2B%2B&logoColor=violet">
+  <img src="https://img.shields.io/badge/C-080020?style=for-the-badge&logo=c&logoColor=violet">
+</p>
+
+---
